@@ -1,0 +1,22 @@
+{
+  "name": "zpound_zpx",
+  "version": "1.0.0",
+  "description": "Zpound is Erc20 token based on BSC",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Eladawi",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "openzeppelin-solidity": "^4.0.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.7"
+  }
+}
